@@ -177,52 +177,6 @@ numpy==1.24.3
 werkzeug==2.3.7
 ```
 
-### Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/new-feature`)
-5. Open a Pull Request
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Acknowledgments
-
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for optical character recognition
-- [OpenCV](https://opencv.org/) for image processing capabilities
-- [Flask](https://flask.palletsprojects.com/) for the web framework
-- [Bootstrap](https://getbootstrap.com/) for responsive design components
-
-### Support
-
-If you encounter any issues or have questions:
-
-1. Check the troubleshooting section above
-2. Search existing issues in the repository
-3. Create a new issue with detailed description and error logs
-4. Include your system information and Python/Tesseract versions
-
-### Example Use Cases
-
-- **Document Digitization**: Convert physical documents to searchable text
-- **Invoice Processing**: Extract amounts, dates, and vendor information
-- **ID Document Analysis**: Process licenses, certificates, and identification cards
-- **Receipt Management**: Organize and query expense receipts
-- **Academic Documents**: Analyze transcripts, diplomas, and certificates
-- **Legal Documents**: Extract key information from contracts and agreements
-
-### Future Enhancements
-
-- Database integration for persistent storage
-- Advanced AI models for better question answering
-- Support for additional file formats (PDF, DOCX)
-- Batch export capabilities
-- User authentication and multi-user support
-- Integration with cloud storage services
-
 ### Technologies Used
 
 - **Backend**: Flask, Python 3.7+
