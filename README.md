@@ -21,8 +21,8 @@ Transform your documents into intelligent, searchable content with AI-powered an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smart-ocr-analyzer.git
-   cd smart-ocr-analyzer
+   git clone https://github.com/anaya-rs/SmartDoc
+   cd SmartDoc
    ```
 
 2. **Install Python dependencies**
