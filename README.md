@@ -1,6 +1,4 @@
-# README.md
-
-## Smart OCR Document Analyzer
+# SmartDoc Analyzer
 
 Transform your documents into intelligent, searchable content with AI-powered analysis and natural language questioning capabilities.
 
