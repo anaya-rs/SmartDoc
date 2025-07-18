@@ -4,7 +4,6 @@ Transform your documents into intelligent, searchable content with AI-powered an
 
 ### Features
 
-- **Multi-Format Support**: Process JPG, PNG, TIFF, BMP, and GIF images
 - **AI Question Answering**: Ask natural language questions about document content
 - **Batch Processing**: Upload and analyze multiple documents simultaneously
 - **Modern Interface**: Beautiful, responsive design with custom color palette
